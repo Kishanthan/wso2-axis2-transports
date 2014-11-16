@@ -284,7 +284,7 @@
     </build>
 
     <properties>
-        <axis2.version>1.6.1-wso2v11-SNAPSHOT</axis2.version>
+        <axis2.version>1.6.1-wso2v11</axis2.version>
     </properties>
 
 </project>
